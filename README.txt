@@ -32,7 +32,7 @@ PENTING:
 
 CONTOH CARA MUDAH:
 Jika alamat website:
-https://vancemp4.susancole2711.workers.dev/
+https://semarmesem69.github.io/play-video/
 
 Postingan 1:
 ...?video=LINK_VIDEO_1&title=Video%20Satu
