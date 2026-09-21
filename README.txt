@@ -35,9 +35,9 @@ Jika alamat website:
 https://semarmesem69.github.io/play-video/
 
 Postingan 1:
-...?video=LINK_VIDEO_1&title=Video%20Satu
+...?video=https://cdn.slicedrv.com/0b9mbY8S1.mp4
 
 Postingan 2:
-...?video=LINK_VIDEO_2&title=Video%20Dua
+...?video=https://cdn.slicedrv.com/0b9mbY8S1.mp4
 
 Keduanya memakai website yang sama, tetapi halaman masing-masing hanya menampilkan satu video.
